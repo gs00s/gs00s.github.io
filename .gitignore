@@ -1,0 +1,17 @@
+# JetBrains IDEs
+.idea/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Editor swap/backup files
+*.swp
+*.swo
+*~
