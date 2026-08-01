@@ -292,25 +292,3 @@ h1, h2, h3 {
 
 .lang-row:last-child { border-bottom: none; }
 .lang-row span:last-child { color: var(--ink-soft); font-size: 0.9rem; }
-
-/* Footer ----------------------------------------------------------------- */
-.site-footer { border-top: 1px solid var(--border); padding-block: var(--space-4); }
-
-.footer-grid {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  align-items: center;
-  gap: var(--space-3);
-}
-
-.footer-contacts {
-  display: flex;
-  flex-wrap: wrap;
-  gap: var(--space-3);
-  font-size: 0.88rem;
-  color: var(--ink-soft);
-}
-
-.contact-pair { display: flex; align-items: baseline; gap: 0.4em; }
-.footer-mark { color: var(--ink-soft); font-size: 0.85rem; }
